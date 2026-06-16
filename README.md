@@ -1,16 +1,12 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=2,18,22,23&height=220&section=header&text=Anurag%20Jha&fontSize=45&animation=twinkling&fontColor=ffffff" alt="Animated Neon Banner" />
-</p>
+# Hi there, I'm Anurag 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=⚡+Full-Stack+Web+Developer;✨+Next.js+%26+Tailwind+CSS+Enthusiast;🤖+AI+%26+Machine+Learning+Explorer;🚀+Building+Automated+Cloud+Workflows" alt="Typing Animation" />
-</p>
+![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=38BDF8&background=1c1917&center=true&vCenter=true&width=700&height=100&lines=⚡+Full-Stack+Web+Developer;✨+Next.js+%26+Tailwind+CSS;🤖+AI+%26+Machine+Learning)
 
 ---
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,py,fastapi,githubactions,powerbi&theme=dark" alt="Animated Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,py,fastapi,githubactions,powerbi&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
